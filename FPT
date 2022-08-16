@@ -332,7 +332,7 @@ udp://@225.1.2.23:30120
 #EXTINF:-1 tvg-id="binhphuoc2" group-title="Địa phương (SD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/BPTV2_HD_2022.png/revision/latest/scale-to-width-down/1000?cb=20220224001332&path-prefix=vi",BPTV2 _ TH Bình Phước
 udp://@225.1.2.38:30120
 #EXTINF:-1 tvg-id="binhduong6" group-title="Địa phương (SD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/BTV6_logo.png/revision/latest?cb=20210824001544&path-prefix=vi",BTV6 _ TH Bình Dương
-udp://@225.tvg-id="" 1.1.223:30120
+udp://@225.1.1.223:30120
 #EXTINF:-1 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://media.la34.com.vn/upload/files/logo/Logo_LA34.svg.png",LA34 _ TH Long An
 udp://@225.1.1.162:30120
 #EXTINF:-1 tvg-id="angiang" group-title="Địa phương (SD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b2/Logo_ATV_HD_An_Giang_2020_%28Logo_m%C3%A0n_h%C3%ACnh%29.png/revision/latest?cb=20211222023519&path-prefix=vi",ATV _ TH An Giang
