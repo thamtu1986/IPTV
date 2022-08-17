@@ -1,0 +1,1072 @@
+#EXTM3U
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Big Dick
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Big Tits
+http://live.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Fetish
+http://live.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Big Ass
+http://live.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Interracial
+http://live.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Latina
+http://live.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",POV
+http://live.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Cuckold
+http://live.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Threesome
+http://live.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Russian
+http://live.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Compilation
+http://live.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Brunette
+http://live.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="AdultIPTV.net ",Asian
+http://live.adultiptv.net/asian.m3u8
+
+
+
+
+
+
+#EXTINF:-1group-title="195.154.185.179:80",jasmin_tv
+http://195.154.185.179/xx_jasmin_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",fashion_tv
+http://195.154.185.179/xx_fashion_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",nuart_tv
+http://195.154.185.179/xx_nuart_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",playboy_tv
+http://195.154.185.179:80/xx_playboy_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",hot_tv
+http://195.154.185.179:80/xx_hot_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",hustler_tv
+http://195.154.185.179:80/xx_hustler_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",leo_tv
+http://195.154.185.179:80/xx_leo_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",pink_o_tv
+http://195.154.185.179:80/xx_pink_o_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",o_la_la_tv
+http://195.154.185.179:80/xx_o_la_la_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",venus_tv
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:-1group-title="195.154.185.179:80",prive_tv
+http://195.154.185.179:80/xx_prive_tv/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV (18+)
+http://server.miamitvchannel.com/miamitv/miamitv1/chunklist.m3u8
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV Blog (18+)
+http://server.miamitvchannel.com/blog/blog/chunklist.m3u8
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV Blog 2 (18+)
+http://server.miamitvchannel.com/blogtv/blogtv140/chunklist.m3u8
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV Jenny For You (18+)
+http://server.miamitvchannel.com/jennyforyou/jennyforyou/playlist.m3u8
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV Jenny Live (18+)
+http://server.miamitvchannel.com/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV Latino (18+)
+http://server.miamitvchannel.com/latino/latino/playlist.m3u8
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV Mexico (18+)
+http://server.miamitvchannel.com/mexicotv/miamitvmexico1/playlist.m3u8
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV Naked Kitchen (18+)
+http://server.miamitvchannel.com/Nakedkitchen/nakedkitchen140/chunklist.m3u8
+#EXTINF:-1 group-title="server.miamitvchannel.com",Miami TV Sun Beach (18+)
+http://server.miamitvchannel.com/Sunbeachtv/sunbeachtv3131/chunklist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV
+http://live.mycamtv.com:80/playlist.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Teen Girls     
+http://live.mycamtv.com:80/teen.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV MILF
+http://live.mycamtv.com:80/milf.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Young Girls
+http://live.mycamtv.com:80/young.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Mature
+http://live.mycamtv.com:80/bigtits.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Arab Girls
+http://live.mycamtv.com:80/arab.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Ebony Girls
+http://live.mycamtv.com:80/ebony.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Asian Girls
+http://live.mycamtv.com:80/asian.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Brunette Girls
+http://live.mycamtv.com:80/brunette.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Latina Girls
+http://live.mycamtv.com:80/latina.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV White Girls
+http://live.mycamtv.com:80/white.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Blonde Girls
+http://live.mycamtv.com:80/blonde.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Anal
+http://live.mycamtv.com:80/anal.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Big Ass Girls
+http://live.mycamtv.com:80/bigass.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Girls Squirt
+http://live.mycamtv.com:80/squirt.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Big Tits Girls
+http://live.mycamtv.com:80/bigtits.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Skinny Girls
+http://live.mycamtv.com:80/skinny.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Medium Girls
+http://live.mycamtv.com:80/medium.m3u8
+#EXTINF:-1 group-title="live.mycamtv.com",MyCamTV Blowjob
+http://live.mycamtv.com:80/blowjob.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14701.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14702.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14703.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14704.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14705.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14706.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14707.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14708.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14709.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1471.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/1472.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1473.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1474.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1475.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1476.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1477.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1478.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1479.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14710.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14711.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14712.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14713.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14714.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14715.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14716.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14717.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14718.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14719.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14720.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14721.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14722.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14723.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14724.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14725.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14726.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14727.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14728.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14729.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14730.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14731.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14732.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14733.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14734.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14735.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14736.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14737.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14738.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14739.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14740.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14741.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14742.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14743.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14744.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14745.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14746.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14747.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14748.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14749.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14750.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14751.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14752.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14753.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14754.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14755.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14756.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14757.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14758.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14759.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14760.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14761.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14762.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14763.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14764.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14765.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14766.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14767.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14768.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14769.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14770.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14771.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14772.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14773.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14774.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14775.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14776.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14777.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14778.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14779.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14780.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14781.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14782.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14783.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14784.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14785.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14786.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14787.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14788.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14789.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14790.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14791.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14792.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14793.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14794.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14795.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14796.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14797.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14798.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14799.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14801.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14802.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14803.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14804.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14805.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14806.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14807.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14808.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14809.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1481.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1482.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1483.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1484.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1485.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1486.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1487.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1488.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/1489.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14810.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14811.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14812.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14813.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14814.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14815.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14816.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14817.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14818.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14819.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14820.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14821.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14822.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14823.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14824.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14825.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14826.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14827.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14828.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14829.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14830.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14831.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14832.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14833.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14834.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14835.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14836.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14837.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14838.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14839.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14840.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14841.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14842.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14843.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14844.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14845.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14846.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14847.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14848.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14849.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14850.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14851.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14852.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14853.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14854.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14855.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14856.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14857.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14858.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14859.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14860.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14861.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14862.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14863.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv
+https://vod.mycamtv.net/14864.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14865.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14866.m3u8
+#EXTINF:-1 group-title="vod.mycamtv.net",VodMycamtv HD
+https://vod.mycamtv.net/14867.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Unknow",Dorcel TV
+http://194.163.179.246/slovenci/porno/dorcel.m3u8
+#EXTINF:-1 group-title="Unknow",xxxxtreme
+http://194.163.179.246/slovenci/porno/xxxxtreme.m3u8
+#EXTINF:-1 group-title="Unknow",hustler
+http://194.163.179.246/slovenci/porno/hustler.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="XXX_ASIA_JP5",SVDVD-693 叔母従姉妹
+http://videocdn.quweikm.com:8091/20181001/SW-523Bc/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",SW-527
+http://cdnvideo.oywine.com:8091/youma/20180131/SW-527/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",SW-607
+http://videocdn.dlyilian.com:8091/20190603/SW2RJYF607/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",SW-634
+https://videozm.dlyilian.com:8091/20190831/SW-634_CH_SD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",T28-534 ？
+http://videocdn.dlyilian.com:8091/20190101/TQJ4KGR534/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TAAK-013 順從的人妻被自己從生理上討厭的丈� �的哥哥調教成身心都超級淫蕩的女人� ��…
+http://videocdn2.quweikm.com:8091/20180801/TKHE1TE100/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TEK-097 霧島さくら
+http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/loo/TIKB-020/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",TIKB-028 屬於我的自慰寵物
+http://videocdn.dlyilian.com:8091/20181231/TYNJ6ZIER005/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TKI-071 F淺田結梨
+http://videocdn2.quweikm.com:8091/20180801/TKJ4RYW071/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TKI-078 激烈高潮失神特殊體質永井美雛
+http://videocdn.dlyilian.com:8091/20190101/TJUT8BNK078/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TKI-088 きばく'12素人単体作品寝取
+http://videocdn.quweikm.com:8091/20181001/TMCY-111c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TND-001 （私人錄影）01
+http://videocdn.dlyilian.com:8091/20181231/TKN8LWQ001/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",TOEN-20
+https://siwazywcdn2.com:5278//zhongwenzimu/P7TY0vaK/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TPP-021 有坂深雪
+http://videocdn.dlyilian.com:8091/20190331/TR7IOUB020/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TSP-381 東京銀座某酒吧的偷拍錄影模特級美� �毫不知情地進入酒吧後便被下了安眠� ��！
+http://videocdn2.quweikm.com:8091/20180801/TJHY7RWE381/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",TSP-389 強姦温泉中出
+http://videocdn.quweikm.com:8091/20181001/TSP-401c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",TYD-003
+https://siwazywcdn2.com:5278/ribenyouma/iosn1Tct/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",TYD-003
+https://siwazywcdn2.com:5278/zhongwenzimu/xyAo3zDZ/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",UGSS-054
+http://cdnvideo.oywine.com:8091/youma/20180231/UGSS-054/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",UGSS-055
+http://cdnvideo.oywine.com:8091/youma/20180231/UGSS-055/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",UGUG-108
+http://ginocdn.bybzj.com:8091/youma/20180501/UGUG-108B/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",ULT-136
+http://ginocdn.bybzj.com:8091/youma/20180501/ULT-136B/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",UMSO-292
+https://siwazywcdn2.com:5278/zhongwenzimu/vSgiQmVz/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",UREL-003
+https://siwazywcdn2.com:5278/zhongwenzimu/wzHaJAyS/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",URKK-006 素人在地下俱樂部的妊娠做愛美久流� �葉美久流
+http://videocdn.dlyilian.com:8091/20181231/UNJB2RKL009/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",URKK-035
+https://siwazywcdn2.com:5278/zhongwenzimu/yb7ejRvT/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",URLH-015
+https://siwazywcdn2.com:5278/zhongwenzimu/5ur4yC3f/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",USAG-013
+https://siwazywcdn2.com:5278//zhongwenzimu/FHu95R7C/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VAGU-174 歸來的假人模特～不受歡迎的男人的� �想！狂暴！溺愛！同居生活～ 吹石れな
+http://videocdn.dlyilian.com:8091/20190331/VATG3YJN190/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VAGU-207 企画単体作品 風間ゆみ
+http://video.feimanzb.com:8091/20180301/CJK5EGT272/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VEC-310c-朝桐光
+http://videocdn.quweikm.com:8091/20181001/VEC-310c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VEC-319c-寶田もなみ
+http://videocdn.quweikm.com:8091/20181001/VEC-319c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VEC-359 風間ゆみ
+https://videozm.dlyilian.com:8091/20190831/VEC-365_CH_SD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VEC-377 佐々木あき
+http://ginocdn.bybzj.com:8091/youma/20180501/VENU-657/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VENU-755c-若菜奈央
+http://videocdn.quweikm.com:8091/20181001/VENU-755c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VENU-764c-鈴木さとみ
+http://videocdn.quweikm.com:8091/20181001/VENU-764c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VENU-765 佐々波綾
+http://videocdn.dlyilian.com:8091/20190301/VEZA8JUK779/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VENU-784 黛あお
+http://videocdn2.quweikm.com:8091/20181201/VWI8KES792/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VENU-795 凛音とうか
+http://videocdn.dlyilian.com:8091/20190618/VE8RJYE844/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",VENU-962
+https://siwazywcdn2.com:5278/ribenyouma/v4rFNbLH/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",VENX-076
+https://siwazywcdn2.com:5278/zhongwenzimu/jR1xYW4K/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",VENX-096
+https://siwazywcdn2.com:5278/zhongwenzimu/l40OcaCL/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",VEO-033
+https://siwazywcdn2.com:5278/ribenyouma/Z1zxpK9a/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",VEO-046
+https://siwazywcdn2.com:5278/zhongwenzimu/rZ3wHFdN/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VGD-157
+http://video1.rhsj520.com:8091/nyrm3/lyaml/VGD-157/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VGD-186 佐々木結苺
+http://videocdn2.quweikm.com:8091/20180901/DZM0VKR186/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VNDS-3275
+http://videozm.dlyilian.com:8091/20190702/VNDS-3275_CH_SD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VNDS-3300
+http://videozm.dlyilian.com:8091/20190716/VNDS-3300_CH_SD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VOSS-034 彼女にフラれた僕を不憫に思った母� �ゃんとコンドームをする約束でセッ� ��ス！ゴ...
+http://videocdn.quweikm.com:8091/20181001/VOSS-075c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VOSS-092c-母性溢巨乳
+http://videocdn.quweikm.com:8091/20181001/VRTM-327Ac/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VRTM-329c-無防備複数話孕
+http://videocdn.quweikm.com:8091/20181001/VRTM-372c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",VRTM-374c-高飛車女上司
+http://videocdn.quweikm.com:8091/20181001/VRTM-375c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VRTM-434
+http://videozm.dlyilian.com:8091/20190815/VRTM-434_CH_SD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",VRTM-444 桜木優希音
+https://videozm.dlyilian.com:8091/20190911/4KBUZeq0/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",VRTM-468
+https://siwazywcdn2.com:5278/zhongwenzimu/jBFPgZA4/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",VRTM-498
+https://siwazywcdn2.com:5278/zhongwenzimu/a0nXYrve/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",VRTM-499
+https://siwazywcdn2.com:5278/zhongwenzimu/BlTUfgSC/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",WA-334
+http://ginocdn.bybzj.com:8091/youma/20180501/WA-334A/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",WAAA-009
+https://siwazywcdn2.com:5278/zhongwenzimu/gJeKAzZx/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",WAAA-016
+https://siwazywcdn2.com:5278/zhongwenzimu/yFbW5otK/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",WAAA-024
+https://siwazywcdn2.com:5278/ribenyouma/ftwHk9Pp/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",WAAA-048
+https://siwazywcdn2.com:5278/zhongwenzimu/Zeda0whR/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",FSDSS-274
+https://siwazywcdn2.com:5278/zhongwenzimu/wfv4s7Ux/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",FSDSS-281
+https://siwazywcdn2.com:5278/zhongwenzimu/KzrREYpO/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",FSET-678
+http://video.lllwo2o.com:8091/20180520/TEH1PJK678/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",FSET-758 文科美少女和大叔濕吻、性愛樞木葵
+http://videocdn.dlyilian.com:8091/20190201/FWJM3GRK758/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",FSET-778 完全穿著衣服的美學我對著穿著緊身� �衣裙的美女發情了。 2
+http://videocdn.dlyilian.com:8091/20190101/FGKI3RLO778/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",FSET-779 我看到女人超短內褲裡露出的陰毛後� �接發情了
+http://videocdn.dlyilian.com:8091/20190331/FQBJ4HKF779/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",FSET-882
+https://siwazywcdn2.com:5278//zhongwenzimu/iJHv8Ueb/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",FUFU-146
+http://videocdn.dlyilian.com:8091/20190101/FBF4TLO146/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",FUFU-175
+http://videozm.dlyilian.com:8091/20190815/FUFU-175_CH_SD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",G_Queen-514_3 無毛宣言 神山実
+http://videocdn.dlyilian.com:8091/20190105/hd_g_queen-514_3/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GDHH-095
+http://video.feimanzb.com:8091/20180701/GKT2RY095/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GDHH-114c-美乳女子校生学生服騎乗位
+http://videocdn.quweikm.com:8091/20181001/GDHH-114c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GDHH-118 搬來的新公寓住滿了可愛的女孩子！� �成為了她們的共用男友！ ！
+http://videocdn.dlyilian.com:8091/20190101/GWK0GRL118/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GDHH-133 我的青梅竹馬是一個喜歡看性感屁股AV 擼管的處男
+http://videocdn.dlyilian.com:8091/20190331/GD2TGJHD133/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GDTM-178 北海道出生！看似純情其實卻是超級� �流的女僕！來棲麻友 20歳
+http://videocdn2.quweikm.com:8091/20180901/MV9KRW178/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GDTM-197 （腰圍52cm！苗條可愛！美白身體）的� ��骨感超細女孩）是（讓我們震驚的性 交成癮變態素人女！） 浜野友香
+http://videocdn2.quweikm.com:8091/20180901/GJF4RWE197/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GETS-071 為了對付痴漢來到護身術道場的女子� �因全身有機可趁......
+http://videocdn2.quweikm.com:8091/20180801/GJK2BET071/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GETS-075
+http://videocdn.dlyilian.com:8091/20190101/GQJM9FRK075/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GETS-081
+http://videocdn2.quweikm.com:8091/20181201/GZJUB1EGRK081/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GETS-082 為了對付痴漢來到護身術道場的女子� �因全身有機可趁被插爆！ ！在排練時落入設計好的圈套.....
+http://videocdn.dlyilian.com:8091/20190101/GEFK3LGR082/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GETS-117
+http://videozm.dlyilian.com:8091/20190831/GETS-117_HD_CH/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GIRO-005
+http://videocdn2.quweikm.com:8091/20181201/GZIKGRL005/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GIRO-022 在距東京一小時車程的某旅館中，色� �的旅館老闆娘誘惑了我！在溫泉中為� ��進行色情服務！ ！
+http://videocdn2.quweikm.com:8091/20180730/GJK7YRE022/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",GNAB-026
+https://siwazywcdn2.com:5278//zhongwenzimu/ZCespu0K/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GOOD-019
+http://videozm.dlyilian.com:8091/20190831/GOOD-019_HD_CH/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GRCH-230 salon NATSUNO ～first love～
+http://videocdn2.quweikm.com:8091/20180730/GEK56JTG230/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GRCH-232 可靠的男人 ～上原千明～
+http://videocdn2.quweikm.com:8091/20180801/GJO6GE232/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GRCH-238 給女生看的AV 倒霉男優
+http://videocdn2.quweikm.com:8091/20180730/GKS5ETRH238/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GS-202 男女共同合宿！今年特別讓男子網球� �和女子網球部共同去合宿！
+http://videocdn.dlyilian.com:8091/20190331/GQI0LOTRH202/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GS-218 被女朋友甩了之後一個人來旅館，喝� �酒之後露出下半身就睡著了
+http://videocdn.dlyilian.com:8091/20190301/GS3JYTF218/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GS-238
+http://videocdn.dlyilian.com:8091/20190610/GS-238_CH_SD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GS-266 小林佳代子
+https://videozm.dlyilian.com:8091/20190815/GS-266_CH_SD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",GS-309
+https://siwazywcdn2.com:5278//zhongwenzimu/LEITHRmQ/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",GS-352
+https://siwazywcdn2.com:5278/ribenyouma/ZXJYmurV/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GUFU-01 久保田真実
+http://videocdn2.quweikm.com:8091/20180801/UHR8KW01/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GVG-106 鈴原エミリ
+http://video1.rhsj520.com:8091/nyrm3/2011225/lyaml/GVG-106/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GVG-158
+http://video1.rhsj520.com:8091/nyrm3/lyaml/GVG-158/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GVG-391 蓮実クレア
+http://videocdn.quweikm.com:8091/20180830/GVG-391/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GVG-452 早川瀬里奈
+https://videozm.dlyilian.com:8091/20191024/fuOHPDKo/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GVG-593 最喜歡大胸男人的下流惡作劇石倉沙� �裡
+http://videocdn2.quweikm.com:8091/20180730/GKL6BRE593/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GVG-664 喜歡屁股的男孩子的色情惡作劇神宮� �ナオ
+http://videocdn2.quweikm.com:8091/20180801/GJK8METH664/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",GVG-664 喜歡屁股的男孩子的色情惡作劇神宮� �ナオ
+http://videocdn2.quweikm.com:8091/20180730/GJK8METH664/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GVG-670 君色花音
+http://videocdn2.quweikm.com:8091/20181101/GKIE8TNB670/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GVG-676 波多野結衣
+http://videocdn2.quweikm.com:8091/20181131/GBR9LQW676/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GVG-809 紺野ひかる
+https://videozm.dlyilian.com:8091/20190709/GV4TUKD809/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",GVG-870 宝田もなみ
+https://videozm.dlyilian.com:8091/20190831/GVG-870_CH_SD/1000kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HAR-027
+http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/loo/HAR-027/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HAWA-074c 他人棒SEX 神山なな
+http://videocdn.quweikm.com:8091/20180704/oWeDvFtP/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HAWA-127Bc-拘束人妻企画素人
+http://videocdn.quweikm.com:8091/20181001/HAWA-127Bc/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HAWA-130Bc-拘束熟女人妻
+http://videocdn.quweikm.com:8091/20181001/HAWA-130Bc/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HAWA-146
+http://videocdn.dlyilian.com:8091/20190301/HQE3UJS146/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HAWA-257
+https://siwazywcdn2.com:5278/zhongwenzimu/vDPthZGy/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HBAD-267
+http://video1.rhsj520.com:8091/nyrm3/lyaml/HBAD-267/1500kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HBAD-302 卯水咲流
+http://video1.feimanzb.com:8091/20180115/HBAD-302-C/550kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HBAD-357 若菜奈央
+http://video.feimanzb.com:8091/20180301/DJK8LBT357/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HBAD-403c-輪姦人妻女戦士和服
+http://videocdn.quweikm.com:8091/20181001/HBAD-403c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HBAD-408c-若妻巨乳企画単体作品中出 君島みお
+http://videocdn.quweikm.com:8091/20181001/HBAD-408c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HBAD-423 倉木しおり
+http://videocdn.dlyilian.com:8091/20190101/HQLG4RSD423/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HBAD-553
+https://siwazywcdn2.com:5278/zhongwenzimu/A2flHM39/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HBAD-560
+https://siwazywcdn2.com:5278/ribenyouma/oIxn41Tm/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HBAD-561
+https://siwazywcdn2.com:5278/ribenyouma/7NjRxwFv/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HBAD-561
+https://siwazywcdn2.com:5278/zhongwenzimu/ag5sIiDL/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HBAD-591
+https://siwazywcdn2.com:5278/zhongwenzimu/MqmHk2TK/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HBAD-596
+https://siwazywcdn2.com:5278/zhongwenzimu/xQgnUW3S/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HBAD-601
+https://siwazywcdn2.com:5278/zhongwenzimu/BtK41goC/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HCM-009
+http://cdnvideo.oywine.com:8091/youma/20180101/HCM-009/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD ABP-679 絕對美少女出租服務。縱貫全國特別� � 九州、北陸、北海道、中國 園田美音有碼高清
+http://videocdn.dlyilian.com:8091/20190101/AQK8FEL679/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD ABP-680 運動服流汗性交4連發！有運動員氣質� ��瀨名光莉 act.13 運動服×好色小動物 大汗淋漓的性愛！ ！有碼高清
+http://videocdn.dlyilian.com:8091/20190101/AQK7FEL680/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD ABP-683 結真希奈幸運色鬼有碼高清
+http://videocdn.dlyilian.com:8091/20190101/AQK4FEL683/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD IPX-229 喜歡大叔的癡女美少女挑逗中年肉棒� �他射精挑逗舔舐性交桃乃木香奈有碼� ��清
+http://videocdn.dlyilian.com:8091/20190301/IP5UKPF229/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD JUY-460 婆媳蕾絲邊調教~義理親子奏出的偏愛� ��奏曲~ 美谷朱里加山夏子有碼高清
+http://videocdn.dlyilian.com:8091/20190301/JU1WERY460/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD MEYD-441 擔心寵物在家安裝了攝像機結果拍攝� �妻子被調教的視頻～ 宮村菜菜子
+http://videocdn.dlyilian.com:8091/20190301/ME8LWER441/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD MIDE-475 顫抖痙攣不停的性感開發精油按摩九� �香奈有碼高清
+http://videocdn.dlyilian.com:8091/20181231/MBA8JEW475/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD MIDE-491 為了被NTR而被陌生男人上了？蕾有碼� �清
+http://videocdn.dlyilian.com:8091/20190201/MZJ4KGR491/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD MXGS-1076 禁慾720小時干到白濁汁狂流連續絕頂� �求不滿妹黑宮詠美有碼高清
+http://videocdn.dlyilian.com:8091/20190301/MX7QJRY1076/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD RIX-062 幫忙打手槍被偷拍【不能脫】【不能� �】在店裡秘密要求跟她做愛
+http://videocdn.dlyilian.com:8091/20190331/RI6JYCSG062/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD SSNI-067 想讓她以輕蔑的眼神露內褲。天使萌� �碼高清
+http://videocdn.dlyilian.com:8091/20190101/SQK2EL067/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HD TSP-390 昏睡強制性交3有碼高清
+http://videocdn.dlyilian.com:8091/20190331/TS9YKIE390/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDABP-661 人生初次呈現恍惚狀態激烈高潮絕頂� �愛日向澪有碼高清
+http://videocdn2.quweikm.com:8091/20180730/AJKOE9THR661/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDIPZ-811 相互對視的情熱性交榊梨亞亞望月さ� �ら有碼高清
+http://videocdn2.quweikm.com:8091/20180801/IJO1WRB811/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDIPZ-980 想成為奴隸而來的千金小姐
+http://videocdn2.quweikm.com:8091/20180801/IKLO4ED980/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HDKA-120 清城ゆき
+http://videocdn2.quweikm.com:8091/20181001/HJM2KET120/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HDKA-214
+https://siwazywcdn2.com:5278/ribenyouma/2m7kORi1/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDKAWD-843 前鄉下電視台主播中出解禁櫻井美月� �碼高清
+http://videocdn2.quweikm.com:8091/20180801/KJW5BRW843/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDLXVS-030 高貴正妹TV×蚊香社精選30 佐藤麻里子有碼高清
+http://videocdn2.quweikm.com:8091/20180801/LWE7BTRJO030/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDMDS-822 超純真18歲正妹柚木彩花有碼高清
+http://videocdn2.quweikm.com:8091/20180801/MKE3BTW822/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDSGA-101 和最棒的小三，最棒的內射性交21有碼 高清
+http://videocdn2.quweikm.com:8091/20180801/SJQ5MGR101/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDSNIS-982 寫真女星當眾尿尿的羞恥模樣解禁瀬� �雅有碼高清
+http://videocdn2.quweikm.com:8091/20180801/SLO8KY982/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HDSSNI-004 噴尿解禁！猛幹到痙攣絕頂失禁漏尿� �吹 辻本杏有碼高清
+http://videocdn2.quweikm.com:8091/20180801/IBEJ3TRL004/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HENK-004 小早川怜子
+http://videocdn2.quweikm.com:8091/20181201/HRJUK8DV004/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HERY-090 喜歡熱吻的古川祥子的濃厚舔舐性交� �～
+http://videocdn2.quweikm.com:8091/20180801/YJO9EGT090/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HERY-093 喜歡深吻的君色花音帶來的激烈吻愛
+http://videocdn2.quweikm.com:8091/20180730/HKO3TRH093/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HETR-009 森沢かな
+http://video.lllwo2o.com:8091/20180520/RJO7HET009/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HFD-193
+https://videozm.dlyilian.com:8091/20190709/HFD-193_CH_SD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HHED-054 周防あずさ
+http://videocdn.dlyilian.com:8091/20190401/HH8KYJRT054/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HHED-50 真中真奈美
+http://video.feimanzb.com:8091/20180301/DJ0RYK50/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HIMA-95
+https://siwazywcdn2.com:5278/zhongwenzimu/vZgNKh1P/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HJMO-375 殘酷遊戲和色色懲罰歷代人氣素人情� �前來挑戰！在男優面前被男優連續兩� ��內射 2
+http://videocdn2.quweikm.com:8091/20180801/HK1TWW375/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HJMO-403
+http://videocdn.dlyilian.com:8091/20190610/HJMO-403_CH_SD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HMD-02
+http://ginocdn.bybzj.com:8091/youma/20180401/HMD-02A/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HMGL-171 蓮美なお
+http://videocdn.dlyilian.com:8091/20190401/HM3HT171/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HMN-049
+https://siwazywcdn2.com:5278/zhongwenzimu/yDV8e09v/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HMPD-10057 奴隸少女 完全調教 七海唯亞
+http://videocdn.dlyilian.com:8091/20181231/HMJE3KW10057/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-436c-絶対妊娠 河南実裡
+http://videocdn.quweikm.com:8091/20181001/HND-436c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HND-448 麻里梨夏
+http://video.feimanzb.com:8091/20180401/HJO1TRQ448/650kb/hls/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-450c-痴女単体作品騎乗位中出
+http://videocdn.quweikm.com:8091/20181001/HND-450c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-481 禁慾女×完美男無套覺醒!!大露本能真� ��中出解禁阿部柑菜
+http://videocdn.dlyilian.com:8091/20190101/HMKE8BRW481/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-481c-禁欲女絶倫男 阿部栞菜
+http://videocdn.quweikm.com:8091/20181001/HND-481c/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-489 高潮數次直至主動扭動腰肢的癡女被� �射了！ ！椎名空
+http://videocdn2.quweikm.com:8091/20180801/HKEG0TO489/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-501 30根肉棒無限射精內射大亂交AIKA
+http://videocdn.dlyilian.com:8091/20190331/HN4YUN501/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-511 被30根肉棒插入射精大亂交君島美緒
+http://videocdn.dlyilian.com:8091/20181231/HKW9EBR511/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HND-513 河南実里
+http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/7/HND-513/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-527 外表看起來是正經的溫柔老師，但實� �上是個想調教學生的女人！在職老師� ��加AV 真白紗江
+http://videocdn.dlyilian.com:8091/20190101/HRJG3DKV527/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-535 見面就無套抽插！馬上高潮！內射之� �還是非常敏感的狀態繼續激烈抽插！ 【已經高潮了啊！ 】無視她的抵抗繼續連續內射！ ！天野美優
+http://videocdn.dlyilian.com:8091/20190101/HJBR0KW535/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-548 一見面就插入！即插即中！中出後立� �在強烈攻擊！無視高潮抵抗連續中出� ��一之瀨梓
+http://videocdn.dlyilian.com:8091/20190331/HQLI1TDF548/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-552 這位擁有迷人笑容的女孩子雖然看上� �與色情無緣， 茜麻衣子
+http://videocdn.dlyilian.com:8091/20190201/HJE0KLW552/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-573 邂逅馬上做愛！馬上高潮！內射後馬� �再開始做愛！ 「我都高潮了！」無視她的抵抗連續� �射！ ！神宮寺奈緒
+http://videocdn.dlyilian.com:8091/20181231/HQK1LEF573/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-584 小惡魔誘惑舞蹈音樂停之前要讓男人� �精全力擺腰內射美谷朱里
+http://videocdn.dlyilian.com:8091/20190331/HN3JYMU584/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-601 時間停止少女停住時間與喜歡的男生1� ��1猛肏到中出神宮寺奈緒
+http://videocdn.dlyilian.com:8091/20190331/HN8LIDF601/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HND-602 篠田ゆう
+http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/3/hnd-602/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HND-602 篠田ゆう
+http://videocdn.dlyilian.com:8091/20190301/HN1RTQDF602/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HND-609 第一次無套內射岬梓
+http://videocdn.dlyilian.com:8091/20190301/HN7IOPWER609/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HND-642 松永さな
+http://videozm.dlyilian.com:8091/20190709/HND-642_CH_SD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HND-648 黒崎みか
+http://videocdn.dlyilian.com:8091/20190520/HND-648_CH_SD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HND-751
+https://siwazywcdn2.com:5278/zhongwenzimu/JqM5DIco/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HND-764
+https://siwazywcdn2.com:5278/zhongwenzimu/a7iAGljD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HND-769
+https://siwazywcdn2.com:5278/zhongwenzimu/Qiey8w6P/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HND-832
+https://siwazywcdn2.com:5278/zhongwenzimu/UZYl5abD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HND-834
+https://siwazywcdn2.com:5278/zhongwenzimu/5KsBHyET/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HND-844
+https://siwazywcdn2.com:5278/zhongwenzimu/pQhAt2qH/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HND-851
+https://siwazywcdn2.com:5278/ribenyouma/Sp9K4TP7/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HND-854
+https://siwazywcdn2.com:5278/ribenyouma/3axZdUSM/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HNDS-056 監禁受虐癖男人，她們對她進行3P、內 射、拷問君島美緒水野朝陽
+http://videocdn.dlyilian.com:8091/20181231/HKB2ERW056/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21253 催眠腦內覺醒誘人J杯美容沙龍中出彩� ��莉娜
+http://videocdn2.quweikm.com:8091/20180801/HNM9JKR21253/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21256 童話尾巴×肛交管教毒舌又強硬的黑貓 突然直接變豹潮吹了反而對男性開始� �教
+http://videocdn2.quweikm.com:8091/20180730/HMJ1KRW21256/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21268 白貓妖精尾巴 尾巴&肛門塞
+http://videocdn2.quweikm.com:8091/20180901/HMJ0EGR21268/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21270 若菜奈央精選4小時
+http://videocdn2.quweikm.com:8091/20180730/HKE1RWE21270/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21270Ac-単体作品4時間以上作品
+http://videocdn.quweikm.com:8091/20181001/HODV-21270Ac/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21270Bc-単体作品4時間以上作品
+http://videocdn.quweikm.com:8091/20181001/HODV-21270Bc/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21285 讓你射個不停的按摩體驗超過十萬顧� �按摩店點名叔第一女孩的神技雄起按� ��內射服務佐倉寧寧
+http://videocdn.dlyilian.com:8091/20190101/HKEB1RW21285/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21291 【真實的肉穴笹倉杏】
+http://videocdn.dlyilian.com:8091/20190301/HO1GHJY21291/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21321 在溫泉旅館偷看穿著校園泳衣洗泡澡� �的美女，被美女發現後反過來將我上� ��。
+http://videocdn.dlyilian.com:8091/20190331/HQK0IFE21321/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21335 肛門診療所用肛門數次絕頂！把美女� �教成只要玩弄肛門就爽到飛天的變態� ��美浦彩
+http://videocdn.dlyilian.com:8091/20190301/HO7UIH21335/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HODV-21341 讓男人不斷的射精，偶像高潮天才！� �木葵
+http://videocdn.dlyilian.com:8091/20190301/HO1QGF21341/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HODV-21361 霧島さくら
+http://videocdn.dlyilian.com:8091/20190610/HODV-21361_CH_SD/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HODV-21454
+https://siwazywcdn2.com:5278/zhongwenzimu/VTke3MtZ/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HODV-21457
+https://siwazywcdn2.com:5278/zhongwenzimu/5nv6rCzl/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HODV-21484
+https://siwazywcdn2.com:5278//zhongwenzimu/weAZgxbI/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HODV-21619
+https://siwazywcdn2.com:5278/zhongwenzimu/3KsCMnDc/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HODV-21629
+https://siwazywcdn2.com:5278/zhongwenzimu/O1W8rQbJ/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HOKS-052
+https://siwazywcdn2.com:5278/zhongwenzimu/70WVARSP/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP6",HOKS-070
+https://siwazywcdn2.com:5278//zhongwenzimu/wLsClYjk/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HOMA-00021 對美女房東施展催眠術開始順從中出� �同生活。清城ゆき
+http://videocdn2.quweikm.com:8091/20180901/AN0ECJ00021/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HOMA-00032 涼川絢音
+http://videocdn.dlyilian.com:8091/20181231/HWQJ2MKG00032/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP4",HOMA-048 被人奪走的婚約者現實做愛直播神宮� �奈緒
+http://videocdn.dlyilian.com:8091/20190301/HO1JYFS048/index.m3u8
+#EXTINF:-1 group-title="XXX_ASIA_JP5",HOMA-049 有坂深雪
+http://videocdn.dlyilian.com:8091/20190401/HO86KUI049/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="WorldStream B.V",2*
+https://video3.tizam.cc/films/indiana-mack-2000.mp4
+#EXTINF:-1 group-title="WorldStream B.V",3*
+https://video3.tizam.cc/films/indiana-mack-ii-porn.mp4
+#EXTINF:-1 group-title="WorldStream B.V",4*
+https://video3.tizam.cc/films/l-education-de-la-jeune-clea.mp4
+#EXTINF:-1 group-title="WorldStream B.V",5*
+https://video1.tizam.cc/films/private-chateau-the-struggle-for-power.mp4
+#EXTINF:-1 group-title="WorldStream B.V",6*
+https://video1.tizam.cc/films/eavesdropping-on-mom-part-one1.mp4
+#EXTINF:-1 group-title="WorldStream B.V",7*
+https://video1.tizam.cc/films/1265706338892.mp4
+#EXTINF:-1 group-title="WorldStream B.V",8*
+https://video1.tizam.cc/films/casting-the-1.mp4
+#EXTINF:-1 group-title="WorldStream B.V",9*
+https://video1.tizam.cc/films/1258244672076.mp4
+#EXTINF:-1 group-title="WorldStream B.V",10*
+https://video3.tizam.cc/films/sokrovennaya_lyubov_s_russkim_perevodom.mp4
+#EXTINF:-1 group-title="WorldStream B.V",11*
+https://video3.tizam.cc/films/eroticheskoe_mambo.mp4
+#EXTINF:-1 group-title="WorldStream B.V",12*
+https://video3.tizam.cc/films/kuzina_s_russkim_perevodom.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Corruption — 1983
+https://video1.tizam.cc/vk/Corruption1983.mp4
+#EXTINF:-1 group-title="WorldStream B.V",8 Masseuses (8 Spa Girls)
+https://video1.tizam.cc/vk/8SpaGirls.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Dreams - 2010
+https://video2.tizam.cc/files/2488770/dreams.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Friends and Lovers 2 - James Avalon
+https://video2.tizam.cc/files/2486523/druzya_lyubovniki_2.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Young and Beautiful 5 - Greg Lansky
+https://video1.tizam.cc/files/2483349/young_and_beautiful_5.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Love And A Good Screw
+https://video1.tizam.cc/files/2483413/sex__love_and_a_good_screw.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Adultère au jardin d\'eden - Adam & Eve
+https://video1.tizam.cc/vk/AdultereaujardindEden.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Young And Beautiful - Explicit Empire
+https://video1.tizam.cc/files/2483348/molodye_i_krasivye.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Sun-Lit 2
+https://video1.tizam.cc/files/2483347/sun_lit_2.mp4
+#EXTINF:-1 group-title="WorldStream B.V",My Neighbors Wife 2
+https://video2.tizam.cc/files/2483335/my_neighbors_wife_2.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Erotic Massage Stories 9
+https://video1.tizam.cc/vk/EroticMassageStories9.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Festival Teens
+https://video1.tizam.cc/vk/FestivalTeens.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Sexual Encounters - James Avalon
+https://video2.tizam.cc/files/2474654/seksualnye_vstrechi.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Menage A Trois - Sex Art
+https://video2.tizam.cc/files/2474773/seksualnyy_troynichek.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Internal Love 3 - 2017
+https://video2.tizam.cc/files/2474795/internal_love_3.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Greg Lansky
+https://video1.tizam.cc/files/2474790/threesome_fantasies_2.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Woman\'s Torment
+https://video2.tizam.cc/files/2474418/woman_s_torment__1977.mp4
+#EXTINF:-1 group-title="WorldStream B.V",special_moments
+https://video2.tizam.cc/files/2469786/special_moments__2017.mp4
+#EXTINF:-1 group-title="WorldStream B.V",mehanika(2000)
+https://video1.tizam.cc/files/2469435/mehanika_zhenshchiny.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Burning Desires 2
+https://video1.tizam.cc/files/2462150/burning_desires_2.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Love Blind
+https://video1.tizam.cc/files/2462170/love_blind.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Outdoor Temptations
+https://video2.tizam.cc/files/2462187/outdoor_temptations.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Ева / Eva
+https://video2.tizam.cc/files/2458175/eva__tushy.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Love For Sale 2
+https://video1.tizam.cc/files/2458192/love_for_sale_2.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Teachers Pet
+https://video1.tizam.cc/files/2458232/teachers_pet.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Change pas de main
+https://video1.tizam.cc/files/2458258/change_pas_de_main__1975.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Der Kurpfuscher und seine fixen Töchter
+https://video1.tizam.cc/films/DerKurpfuscherundseinefixenTchter.mp4
+#EXTINF:-1 group-title="WorldStream B.V",Las alumnas de madame Olga
+https://video1.tizam.cc/films/MadameOlgasPupils1981.mp4
+#EXTINF:-1 group-title="WorldStream B.V",A Masseuses Revenge
+https://video1.tizam.cc/vk/AMasseusesRevenge.mp4
+
+
+
+
+
