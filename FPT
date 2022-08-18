@@ -348,9 +348,9 @@ udp://@225.1.1.159:30120
 #-------------------Quốc tế HD-------------------#
 #EXTINF:-1 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-id="animalhd" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.dlpng.com/static/png/501842_preview.png",Animax
+#EXTINF:-1 tvg-id="animaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6f/Animax.png",Animax
 udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-id="afnhd" tvg-logo="https://i.imgur.com/rQ3Sgrn.png",Asian Food Network
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-id="afnhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/Asian_Food_Network_logo.png/revision/latest/scale-to-width-down/200?cb=20220226091253&path-prefix=vi",Asian Food Network
 udp://@225.1.1.198:30120
 #EXTINF:-1 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/5Gtp7WP.png",AXN HD
 udp://@225.1.2.225:30120
@@ -358,30 +358,32 @@ udp://@225.1.2.225:30120
 udp://@225.1.2.146:30120
 #EXTINF:-1 tvg-id="cbeebies" group-title="Quốc Tế (HD)" tvg-id="cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/CBeebies.png",BBC CbeeBies
 udp://@225.1.1.134:30120
-#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/3sQunND.png",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/BBC_Earth_logo.png/revision/latest/scale-to-width-down/180?cb=20220127072848&path-prefix=vi",BBC Earth
 udp://@225.1.2.24:30120
 #EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",BOOMERANG
 udp://@225.1.1.138:30120
-#EXTINF:-1 tvg-id="blueantent" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/BaZuGNL.png",BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-id="blueantent" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",BLUE ANT ENTERTAINMENT
 udp://@225.1.1.203:30120
-#EXTINF:-1 tvg-id="blueantext" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EUHDtZ5.png",BLUE ANT EXTREME
+#EXTINF:-1 tvg-id="blueantext" group-title="Quốc Tế (HD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/Blue_Ant_Extreme_Vietnam.png/revision/latest/scale-to-width-down/180?cb=20220422031313&path-prefix=vi",BLUE ANT EXTREME
 udp://@225.1.1.204:30120
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/nzvNMfP.png",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KcEAjUh.png",Cinema World HD
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png",Cinema World HD
 udp://@225.1.1.142:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-id="cinemaxhd" tvg-logo="https://i.imgur.com/PklWJDL.png",Cinemax HD
 udp://@225.1.2.86:30120
 #EXTINF:-1 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-id="davinci" tvg-logo="https://static.megavie.live/media/davinci.png",Da Vinci
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/blEhr2T.png",Discovery Asia HD
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png",Discovery Asia HD
 udp://@225.1.2.223:30120
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-id="discoveryhd" tvg-logo="https://i.imgur.com/fXuxFbz.png",Discovery Channel HD
 udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/111.png",Dreamworks
+#EXTINF:-1 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/14/DreamWorks_Animation_2016_%28Moon_Boy%29.png/revision/latest/scale-to-width-down/150?cb=20220818023503&path-prefix=vi",Dreamworks
 udp://@225.1.1.136:30120
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://vanhiptv123.000webhostapp.com/ic/dw.png",DW
 udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Fashion4K_logo.png",Fashion TV
+udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Fashion4K_logo.png",Fashion TV 4K
 udp://@225.1.2.232:30120
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-id="hbohd" tvg-logo="https://i.imgur.com/6YSLw8h.png",HBO HD
@@ -402,6 +404,15 @@ udp://@225.1.1.236:30120
 udp://@225.1.1.139:30120
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png",KBS WORLD
 udp://@225.1.1.196:30120
+#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0OrWtJm.png",ABC AUSTRALIA
+udp://@225.1.2.21:30120
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/wwTUVYP.png",BBC Lifestyle
+udp://@225.1.2.52:30120
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC WORLD NEWS
+udp://@225.1.2.74:30120
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/krupazx.png",CNN
+udp://@225.1.1.242:30120
+
 
 
 
@@ -409,23 +420,15 @@ udp://@225.1.1.196:30120
 #-------------------Quốc tế SD-------------------#
 #EXTINF:-1 tvg-id="arriang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang
 udp://@225.1.1.201:30120
-#EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/0OrWtJm.png",ABC AUSTRALIA
-udp://@225.1.2.21:30120
 #EXTINF:-1 tvg-id="babyfirst" group-title="Quốc Tế (SD)" tvg-id="babyfirst" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2d/Babyfirst_logo_2019.png/revision/latest/scale-to-width-down/601?cb=20211127035956&path-prefix=vi",Baby First
 udp://@225.1.1.137:30120
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Quốc Tế (SD)" tvg-id="bbclifestyle" tvg-logo="https://i.imgur.com/wwTUVYP.png",BBC Lifestyle
-udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC WORLD NEWS
-udp://@225.1.2.74:30120
-#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/eyzGJhD.png",CNA
+#EXTINF:-1 tvg-id="cna" group-title="Quốc Tế (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png/600px-CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png",CNA
 udp://@225.1.1.202:30120
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế (SD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnbc_162952697893.jpg",CNBC
 udp://@225.1.1.227:30120
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/krupazx.png",CNN
-udp://@225.1.1.242:30120
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/YTlPk6Q.png",FRANCE 24
 udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/JuELCHc.png",TV5MONDE Asie
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/180?cb=20220610090510&path-prefix=vi",TV5MONDE Asie
 udp://@225.1.1.200:30120
 
 
