@@ -382,7 +382,7 @@ udp://@225.1.1.238:30120
 udp://@225.1.1.136:30120
 #EXTINF:-1 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://vanhiptv123.000webhostapp.com/ic/dw.png",DW
 udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Fashion4K_logo.png",Fashion TV
+#EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1024px-Fashion_TV_logo.svg.png",Fashion TV
 udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Fashion4K_logo.png",Fashion TV 4K
 udp://@225.1.2.232:30120
