@@ -13,7 +13,7 @@ udp://@225.1.2.247:30120
 udp://@225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD (HD 8Mbps)
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD (HD 8Mbps)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png",VTV Cần Thơ HD (HD 8Mbps)
 udp://@225.1.2.245:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD (HD 8Mbps)
 udp://@225.1.2.96:30120
@@ -29,7 +29,7 @@ udp://@225.1.4.2:30120
 udp://@225.1.4.3:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD (HD 4Mbps)
 udp://@225.1.4.4:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD (HD 4Mbps)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png",VTV Cần Thơ HD (HD 4Mbps)
 udp://@225.1.4.6:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD (HD 4Mbps)
 udp://@225.1.4.10:30120
