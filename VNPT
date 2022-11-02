@@ -265,17 +265,17 @@ rtp://@232.84.3.112:10762
 rtp://@232.84.3.204:11146
 #EXTINF:711 tvg-name="Bến Tre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/AnjYRjM.png",THBT HD _ TH Bến Tre (HD 6Mbps)
 rtp://@232.84.3.95:11482
-#EXTINF:24 tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:24 tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long 1 (HD 6.5Mbps)
 rtp://@232.84.2.183:10882
-#EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long 2 (HD 6.5Mbps)
 rtp://@232.84.2.184:10888
-#EXTINF:24 tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:24 tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long 1 (HD 6.5Mbps)
 rtp://@232.84.3.152:10882
-#EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long 2 (HD 6.5Mbps)
 rtp://@232.84.3.164:10888
-#EXTINF:29 tvg-name="Vĩnh Long 3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 HD _ TH Vĩnh Long (HD 6.5Mbps)
+#EXTINF:29 tvg-name="Vĩnh Long 3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 HD _ TH Vĩnh Long 3 (HD 6.5Mbps)
 rtp://@232.84.3.165:10900
-#EXTINF:57 tvg-name="Vĩnh Long 4" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 HD _ TH Vĩnh Long (HD 6Mbps)
+#EXTINF:57 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 HD _ TH Vĩnh Long 4 (HD 6Mbps)
 rtp://@232.84.3.160:10912
 #EXTINF:683 tvg-name="Kiên Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2U316M0.png",KG _ TH Kiên Giang (HD 6Mbps)
 rtp://@232.84.3.161:10918
