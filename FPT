@@ -136,13 +136,13 @@ udp://@225.1.2.171:30120
 
 
 #-------------------Truyền hình Vĩnh Long-------------------#
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="TH Vĩnh Long" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong1_vdsl.png",THVL1 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="TH Vĩnh Long" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong1_vdsl.png",THVL1 HD _ TH Vĩnh Long 1
 udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="TH Vĩnh Long" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong2_vdsl.png",THVL2 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="TH Vĩnh Long" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong2_vdsl.png",THVL2 HD _ TH Vĩnh Long 2
 udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="TH Vĩnh Long" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong3hd_vdsl.png",THVL3 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="TH Vĩnh Long" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong3hd_vdsl.png",THVL3 HD _ TH Vĩnh Long 3
 udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="TH Vĩnh Long" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong4hd_vdsl.png",THVL4 HD _ TH Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="TH Vĩnh Long" tvg-logo="https://images.fbox.fpt.vn/Channel/iconChannel/vinhlong4hd_vdsl.png",THVL4 HD _ TH Vĩnh Long 4
 udp://@225.1.2.25:30120
 
 
