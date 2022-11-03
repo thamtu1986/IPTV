@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #-------------------VTV-------------------#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/VTV1_01-08.01.2020_v%C3%A0_01.11.2022-nay.png/revision/latest?cb=20220602110918&path-prefix=vi",VTV1 HD (HD 8Mbps)
